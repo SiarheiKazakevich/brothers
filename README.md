@@ -1,1 +1,1 @@
-(https://siarheikazakevich.github.io/brothers/)
+https://siarheikazakevich.github.io/brothers/
