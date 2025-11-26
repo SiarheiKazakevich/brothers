@@ -27,6 +27,7 @@ function loadImages(date) {
   const count = photos[date] || 0;
   for (let i = 1; i <= count; i++) {
     const img = document.createElement("img");
+    img.loading = "lazy";
 
     // Формируем путь. Важное: проверь, что в проекте файлы действительно называются так.
     // Попробуй сначала .jpg, если нет — .webp или .png
