@@ -7,7 +7,7 @@ const photos = {
   "AlexZavod": 14
 };
 
-// элементы
+// элементы ...
 const dateSelect = document.getElementById("dateSelect");
 const track = document.getElementById("track");
 
